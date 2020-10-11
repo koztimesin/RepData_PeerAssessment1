@@ -13,5 +13,5 @@
 ## The mean is 10766.19 and the median is 10765
 
 
-!(https://github.com/koztimesin/RepData_PeerAssessment1/blob/master/figure/plot1.png)
+![image1](https://github.com/koztimesin/RepData_PeerAssessment1/blob/master/figure/plot1.png)
 
